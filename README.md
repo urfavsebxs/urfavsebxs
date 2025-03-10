@@ -1,16 +1,29 @@
-## Hi there 👋
+# ⌨️¡Hola! Soy Sebastián Parra, un pequeño desarrollador web y programador pequeño con poca experiencia en el desarrollo web, tengo una experiencia avanzada actualmente en Python para automatizaciones, trabajo en Discord para configurar bots automatizados con APIS o diferentes servicios de Programación.
 
-<!--
-**Sebxs940/Sebxs940** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✌️ Sobre mí
 
-Here are some ideas to get you started:
+Soy una persona bastante creativa, pensativa y crítica de la vida, me encanta la programación y sentir que les ayudo a las persona, me encanta mi espacio personal y me gusta trabajar, soy un gran amante del estudio y trabajar en proyectos locales de la ciudad de Cúcuta, Colombia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💼 Experiencia laboral
+
+### Recien egresado de la I.E SIMÓN BOLÍVAR y con 4 años de experiencia en Programación por la Alcaldia de Cúcuta, FreeCodeCamp, Santander Open Academy, entre otros centros educativos.
+
+# 🎓 Educación
+
+### EGRESADO AÑO 2024 DE I.E SIMÓN BOLÍVAR
+
+- Diploma de Bachiller basico (9no grado)
+- Diploma con Enfasis en Ciencia Naturales (11ce grado)
+
+### Actualmente estudio en la Universidad Francisco de Paula Santander
+
+- Ingenieria de Minas (1er semestre)
+- Actualmente en formación en Semilleros de Programación C++ y Software
+- Programador Mid Level en Python
+
+# 🚀 Proyectos
+
+### Automatización de servicios de Discord.
+
+- Automatización con APIS para reenvio de mensajes de Telegram o cualquier red social hacia Discord.
+- Creación de bots personalizados.
