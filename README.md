@@ -1,4 +1,4 @@
-# ⌨️¡Hola! Soy Sebastián Parra, un pequeño desarrollador web y programador pequeño con poca experiencia en el desarrollo web, tengo una experiencia avanzada actualmente en Python para automatizaciones, trabajo en Discord para configurar bots automatizados con APIS o diferentes servicios de Programación.
+# ⌨️¡Hola! Soy Sebastián Parra, tengo experiencia avanzada en Python para automatizaciones, trabajo en Discord para configurar bots automatizados con APIS o diferentes servicios de Programación.
 
 # ✌️ Sobre mí
 
