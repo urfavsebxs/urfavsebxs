@@ -1,29 +1,48 @@
-# ⌨️¡Hola! Soy Sebastián Parra, tengo experiencia avanzada en Python para automatizaciones, trabajo en Discord para configurar bots automatizados con APIS o diferentes servicios de Programación.
+🚀 ¡Hola! Soy Sebastián Parra
+Soy un programador con experiencia avanzada en Python, especializado en automatización y desarrollo de bots para Discord. Me enfoco en la integración de APIs y servicios automatizados, optimizando flujos de trabajo y mejorando la eficiencia en diversas plataformas.
 
-# ✌️ Sobre mí
+✨ Sobre mí
+Soy una persona creativa, analítica y apasionada por la tecnología. Disfruto la programación porque me permite resolver problemas y ayudar a otras personas. Me motiva el aprendizaje continuo y la posibilidad de contribuir a proyectos innovadores, tanto a nivel personal como en mi comunidad en Cúcuta, Colombia.
 
-Soy una persona bastante creativa, pensativa y crítica de la vida, me encanta la programación y sentir que les ayudo a las persona, me encanta mi espacio personal y me gusta trabajar, soy un gran amante del estudio y trabajar en proyectos locales de la ciudad de Cúcuta, Colombia.
+💼 Experiencia
+4 años de experiencia en programación, adquirida a través de la Alcaldía de Cúcuta, FreeCodeCamp, Santander Open Academy, entre otros centros educativos.
 
-# 💼 Experiencia laboral
+Desarrollo y configuración de bots automatizados para Discord.
 
-### Recien egresado de la I.E SIMÓN BOLÍVAR y con 4 años de experiencia en Programación por la Alcaldia de Cúcuta, FreeCodeCamp, Santander Open Academy, entre otros centros educativos.
+Implementación de APIs para automatización y gestión de datos en múltiples plataformas.
 
-# 🎓 Educación
+🎓 Educación
+Institución Educativa Simón Bolívar (Egresado - 2024)
+Bachillerato con énfasis en Ciencias Naturales.
 
-### EGRESADO AÑO 2024 DE I.E SIMÓN BOLÍVAR
+Universidad Francisco de Paula Santander (Actualidad)
+Ingeniería de Minas (1er semestre).
 
-- Diploma de Bachiller basico (9no grado)
-- Diploma con Enfasis en Ciencia Naturales (11ce grado)
+Formación en C++ y desarrollo de software a través de semilleros de programación.
 
-### Actualmente estudio en la Universidad Francisco de Paula Santander
+Programador Mid-Level en Python.
 
-- Ingenieria de Minas (1er semestre)
-- Actualmente en formación en Semilleros de Programación C++ y Software
-- Programador Mid Level en Python
+🔧 Tecnologías y habilidades
+Lenguajes: Python, Java, C++, HTML, CSS.
 
-# 🚀 Proyectos
+Automatización: Integración de APIs, bots para Discord, automatización de mensajes.
 
-### Automatización de servicios de Discord.
+Herramientas: Railway, yt_dlp, frameworks para bots en Discord.
 
-- Automatización con APIS para reenvio de mensajes de Telegram o cualquier red social hacia Discord.
-- Creación de bots personalizados.
+📌 Proyectos destacados
+🔹 Automatización de servicios en Discord
+Desarrollo de bots personalizados con funcionalidades avanzadas.
+
+Implementación de APIs para reenvío automatizado de mensajes desde Telegram y otras redes sociales hacia Discord.
+
+🔹 Registro de Parqueadero (Java)
+Aplicación desarrollada en Java para la gestión y registro de vehículos en un parqueadero.
+
+Permite registrar entradas y salidas de vehículos, calcular tarifas y generar reportes.
+
+🔹 Conversor de divisas (HTML & CSS)
+Interfaz interactiva creada con HTML y CSS para la conversión de monedas en tiempo real.
+
+Diseño responsivo con una experiencia de usuario intuitiva.
+
+📫 Contacto: Si tienes un proyecto en mente o necesitas automatizar procesos, ¡hablemos!
