@@ -15,7 +15,7 @@
 
 ## 💼 Experiencia  
 
-- **4 años de experiencia en programación**, adquirida en la **Alcaldía de Cúcuta, FreeCodeCamp, Santander Open Academy**, entre otros centros educativos.  
+- **3 meses de experiencia en programación**, adquirida en la **Alcaldía de Cúcuta, FreeCodeCamp, Santander Open Academy**, entre otros centros educativos.  
 - Desarrollo de **bots automatizados** para mejorar la gestión en Discord.  
 - Integración de **APIs y servicios automatizados** en diversas plataformas.  
 
