@@ -51,7 +51,7 @@
 
 ## 📬 Contacto  
 
-📧 **Email:** sprogramacion940@gmail.com 
+📧 **Email:** devsebitas@gmail.com 
 🌎 **GitHub:**   https://github.com/Sebxs940
 💼 **LinkedIn:** www.linkedin.com/in/SebasParra940
  
