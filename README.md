@@ -1,62 +1,70 @@
-# 🚀 Sebastián Parra  
-
-🔹 Desarrollador especializado en **Python**, con experiencia en **automatización, integración de APIs y desarrollo de bots para Discord**.  
-🔹 Apasionado por la tecnología, la optimización de procesos y la resolución de problemas mediante software.  
 
 ---
 
-## 🛠️ Tecnologías y habilidades  
+# Sebastián Parra
 
-- **Lenguajes:** Python, Java, C++, HTML, CSS.  
-- **Automatización:** Bots para Discord, integración de APIs, automatización de mensajes.  
-- **Herramientas:** Railway, yt_dlp, frameworks para Discord.  
+**Desarrollador con experiencia en automatización de procesos y creación de sitios web para eventos escolares (como votaciones, formularios y otros sistemas interactivos).**
 
 ---
 
-## 💼 Experiencia  
+## Tecnologías y habilidades
 
-- **3 meses de experiencia en programación**, adquirida en la **Alcaldía de Cúcuta, FreeCodeCamp, Santander Open Academy**, entre otros centros educativos.  
-- Desarrollo de **bots automatizados** para mejorar la gestión en Discord.  
-- Integración de **APIs y servicios automatizados** en diversas plataformas.  
-
----
-
-## 🎓 Educación  
-
-### **📍 Institución Educativa Simón Bolívar** *(Egresado - 2024)*  
-🎓 Bachillerato con énfasis en Ciencias Naturales.  
-
-### **📍 Universidad Francisco de Paula Santander** *(Actualidad)*  
-📚 Ingeniería de Minas (1er semestre).  
-📌 Formación en **C++ y desarrollo de software** mediante semilleros de programación.  
-📌 **Programador Mid-Level en Python**.  
+* **Lenguajes:** HTML, CSS, Java, Python, JavaScript, TypeScript
+* **Frameworks y herramientas:** TailwindCSS, Astro, React, Git, MySQL, MongoDB
+* **Entornos de desarrollo:** VS Code, IntelliJ, terminales Linux (Bash, Warp)
+* **Especialidades:** Automatización de procesos, desarrollo web centrado en la experiencia del usuario, bots para Discord, integración de APIs
 
 ---
 
-## 📌 Proyectos destacados  
+## Experiencia
 
-### 🔹 **Automatización de servicios en Discord**  
-✅ Desarrollo de **bots personalizados** con funcionalidades avanzadas.  
-✅ Implementación de **APIs para reenvío automatizado de mensajes** desde Telegram y otras redes sociales hacia Discord.  
-
-### 🔹 **Registro de Parqueadero (Java)**  
-✅ Aplicación en **Java** para la gestión y registro de vehículos en un parqueadero.  
-✅ Registro de entradas/salidas, cálculo de tarifas y generación de reportes.  
-
-### 🔹 **Conversor de divisas (HTML & CSS)**  
-✅ Interfaz interactiva creada con **HTML y CSS** para la conversión de monedas en tiempo real.  
-✅ Diseño responsivo con experiencia de usuario optimizada.  
+* Más de **6 meses de experiencia** desarrollando automatizaciones y sitios web personalizados
+* Diseño y desarrollo de **bots avanzados para Discord**, con funcionalidades específicas como reenvío automatizado de mensajes y validación de acciones
+* Participación en proyectos **full stack**, conectando servicios externos y optimizando procesos mediante software
 
 ---
 
-## 📬 Contacto  
+## Educación
 
-📧 **Email:** devsebitas@gmail.com 
-🌎 **GitHub:**   https://github.com/Sebxs940
-💼 **LinkedIn:** www.linkedin.com/in/SebasParra940
- 
+### Institución Educativa Simón Bolívar *(Egresado - 2024)*
+
+Bachiller con énfasis en Ciencias Naturales
+
+### Universidad Francisco de Paula Santander *(2024)*
+
+Ingeniería de Minas – 1er semestre *(retirado)*
+Formación complementaria en C++ mediante semilleros *(retirado)*
+
+### Servicio Nacional de Aprendizaje – SENA *(2025 - 2027)*
+
+**Tecnólogo en Análisis y Desarrollo de Software** *(en curso)*
+Nivel **mid-level en Python**
 
 ---
 
-💡 *"La programación no solo es escribir código, es encontrar soluciones creativas a problemas reales."*  
-🚀 **¡Siempre aprendiendo y mejorando!**  
+## Proyectos destacados
+
+### Landing Page: *Reading Is My Superpower*
+
+**Tecnologías:** Astro, TailwindCSS, JavaScript
+
+* Interfaz rápida y adaptable a dispositivos móviles
+* Sistema de votación con validación de seguridad anti-fraude
+* Panel de acceso exclusivo para docentes responsables de eventos
+
+### Registro de Parqueadero
+
+**Tecnología:** Java
+
+* Sistema de gestión de entradas y salidas de vehículos
+* Cálculo automatizado de tarifas y generación de reportes
+
+---
+
+## Contacto
+
+* **Correo:** [devsebitas@gmail.com](mailto:devsebitas@gmail.com)
+* **GitHub:** [github.com/Sebxs940](https://github.com/Sebxs940)
+* **LinkedIn:** [linkedin.com/in/SebasParra940](https://www.linkedin.com/in/SebasParra940)
+
+---
