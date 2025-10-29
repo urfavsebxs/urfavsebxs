@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" alt="Banner de Sebastián Parra — Full Stack Developer" width="100%" height="50%" />
+  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" alt="Banner de Sebastián Parra — Full Stack Developer" width="100%" height="25%" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Sebastián Parra</span></h1>
