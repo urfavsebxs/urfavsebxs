@@ -1,7 +1,7 @@
 <p align="center" style="margin: 0; padding: 0;">
   <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" 
        alt="Banner de Sebastián Parra — Full Stack Developer" 
-       style="width: 100%; max-width: 600px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); object-fit: cover;"/>
+       style="width: 100%; max-width: 300px; height: auto; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); object-fit: cover;"/>
 </p>
 
 <h1 align="center" style="font-size: 2.5rem; font-weight: bold; color: #ffffff;">
