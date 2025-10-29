@@ -1,10 +1,14 @@
-<p align="center">
-  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" alt="Banner de Sebastián Parra — Full Stack Developer" width="100%" height="25%" />
+<p align="center" style="margin: 0; padding: 0;">
+  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" 
+       alt="Banner de Sebastián Parra — Full Stack Developer" 
+       style="width: 100%; height: auto; max-height: 250px; object-fit: cover; border-radius: 12px;"/>
 </p>
 
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Sebastián Parra</span></h1>
+<h1 align="center" style="font-size: 2.5rem; font-weight: bold; color: #ffffff;">
+  👋 ¡Hola! Soy <span style="color:#38B2AC;">Sebastián Parra</span>
+</h1>
 
-<p align="center">
+<p align="center" style="font-size: 1.1rem; color: #d1d5db; line-height: 1.6;">
   💻 Desarrollador con experiencia en automatización de procesos y creación de sitios web interactivos. <br/>
   ✨ Apasionado por el <b>backend</b>, la <b>integración de APIs</b> y la <b>optimización de procesos</b>.
 </p>
@@ -89,6 +93,8 @@ Nivel **Mid-Level en Python**
 
 ---
 
-<p align="center">
-  <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" alt="Estadísticas de GitHub de Sebastián Parra" width="100%" height="50%"/>
+<p align="center" style="margin-top: 30px;">
+  <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" 
+       alt="Estadísticas de GitHub de Sebastián Parra" 
+       style="width: 100%; height: auto; max-height: 350px; object-fit: cover; border-radius: 12px;"/>
 </p>
