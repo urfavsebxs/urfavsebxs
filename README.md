@@ -49,7 +49,7 @@
 
 ## 💼 Experiencia  
 
-🔹 Más de **6 meses desarrollando automatizaciones y sitios web personalizados**  
+🔹 **1 año desarrollando automatizaciones y sitios web personalizados**  
 🤖 Creación de **bots avanzados para Discord** (reenvío de mensajes, validaciones, automatización de tareas)  
 🌍 Participación en proyectos **Full Stack**, conectando servicios externos y optimizando flujos mediante software  
 
@@ -57,16 +57,12 @@
 
 ## 🎓 Educación  
 
-📘 **Institución Educativa Simón Bolívar** *(Egresado - 2024)*  
+📘 **Institución Educativa Simón Bolívar** *(Egresado Año 2024)*  
 Bachiller con énfasis en Ciencias Naturales  
-
-🏫 **Universidad Francisco de Paula Santander** *(2024)*  
-Ingeniería de Minas – 1er semestre *(retirado)*  
-Formación complementaria en C++ mediante semilleros *(retirado)*  
+ 
 
 💡 **SENA – Servicio Nacional de Aprendizaje** *(2025 - 2027)*  
-**Tecnólogo en Análisis y Desarrollo de Software** *(en curso)*  
-Nivel **Mid-Level en Python**  
+**Tecnólogo en Análisis y Desarrollo de Software** *(en curso)*   
 
 ---
 
