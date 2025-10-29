@@ -35,6 +35,7 @@
 
 ### 🖥️ Entornos  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![WindSurf](https://img.shields.io/badge/WINDSURF-00a86b?style=for-the-badge&logo=windsurf&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Warp](https://img.shields.io/badge/Warp-Terminal-5D5FEF?style=for-the-badge&logo=warp&logoColor=white)
