@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" alt="Banner de Sebastián Parra — Full Stack Developer" width="100%" />
+  <img src="https://i.pinimg.com/1200x/1f/26/6c/1f266c5ebd68245480e3645d0c649fac.jpg" alt="Banner de Sebastián Parra — Full Stack Developer" width="100%" height="50%" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <span style="color:#38B2AC;">Sebastián Parra</span></h1>
@@ -90,5 +90,5 @@ Nivel **Mid-Level en Python**
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" alt="Estadísticas de GitHub de Sebastián Parra" />
+  <img src="https://i.pinimg.com/736x/fa/b3/05/fab305846142b6c1ffe9ed57f0adb184.jpg" alt="Estadísticas de GitHub de Sebastián Parra" width="100%" height="50%"/>
 </p>
